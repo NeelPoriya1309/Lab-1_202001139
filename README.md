@@ -33,11 +33,11 @@
 ### Scope
 * A mobile application specifically designed for people with severe hearing disabilities (nearly 5% of global population) should be developed. This app will alert the user when fast action is required, such as when approaching cars are crossing the street or when somebody cries for help. The app will be able to utilize AI to identify typical sounds in certain environments, such as a car horn.
 ### Features
-* **AI**: To identify noises, this mobile application should employ Artificial Intelligence.
 * **Alerts/Notification**: When the app anticipates a warning message, it should promptly tell the user.
-* **Battery Efficient**: The App should require minimal power consumption and should have minimal delay.
 * **Feedback**: Obtaining user input is essential to guarantee that the user was made aware of the warning notification.
+* **AI**: To identify noises, this mobile application should employ Artificial Intelligence.
 * **Multiple Alert Types**: Offer a variety of alert types, including sound, vibration, visual, and flash, so users can choose the best combination for their needs.
+* **Battery Efficient**: The App should require minimal power consumption and should have minimal delay.
 * **Location-based alerts**: Triggers notifications based on the user's location, such as alerts when they enter or exit a specific area.
 * **Emergency alerts**: Allows users to set up emergency alerts for critical notifications, such as weather warnings, natural disasters, and other important alerts.
 
